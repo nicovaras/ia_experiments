@@ -9,7 +9,7 @@ This is game that came with my Debian distro. More info here: [Hitori](https://w
 
 The program plays the game by itself:
 
-![Demo hitori](imgs/hitori.gif)
+![Demo hitori](img/hitori.gif)
 
 Blog post in [dev.null.com.ar/ia](http://dev.null.com.ar/ia)
 
