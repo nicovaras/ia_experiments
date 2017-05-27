@@ -11,7 +11,7 @@ The program plays the game by itself:
 
 ![Demo hitori](img/hitori.gif)
 
-Blog post in [dev.null.com.ar/ia](http://dev.null.com.ar/ia)
+Blog post in [dev.null.com.ar/ai](http://dev.null.com.ar/ai)
 
 Libraries needed:
 `$ sudo apt install python-xlib python-dev libx11-dev libxtst-dev libpng12-dev python-opencv xdotool tesseract-ocr`
